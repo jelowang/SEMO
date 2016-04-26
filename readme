@@ -1,0 +1,11 @@
+Semo Compiler 0.3.0 features:
+
+Totally ANSIC99 formed front-para modules.
+General abstract grammar form with high flexibility which can be used to discribing variety language.
+SSA form which is an optimizing form of intermedia code.
+Register allocator based on York-Town of architecture independent possible.
+Supports the most calling rules which are stdcall,cdecl,fastcall,armcall so that compatible with gcc,and armcc.
+ARMv6 assembler.
+ARMv6 dynamics linker.
+C front-para for JVM back-para which could translate C codes into JVM bytecodes.in other words,we've made c language independent from specifics devices.
+C front-para for JAVA mid-para which could translate C codes into Java codes.
