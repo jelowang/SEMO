@@ -1,4 +1,5 @@
 # SEMO
+![](http://www.tok.cc/postpics/scar.jpg)  
 Semo Compiler 0.3.0 features:
 
 1. ANSIC99 formed front-para modules.
