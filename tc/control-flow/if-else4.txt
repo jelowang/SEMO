@@ -1,0 +1,38 @@
+void gtkings () {
+
+	int a ;
+
+	if ( a+a ){
+		
+		if(a-a){
+			if (a*a) {
+			} else if(a/a) {
+				if (a/a) {
+					if (a+a) {}
+					else {}
+				} else if (a/a) {
+					if (a+a) {}
+				} else if (a/a) {
+					if (a+a) {}
+				} else {
+					if (a+a) {}
+				}
+			}
+		}
+	} else if ( a&&a ){
+		if(a>>a){}
+	} 
+
+	if ( a>a ){
+		if(a<a){
+			if (a||a) {
+			} else if(a-a) {
+			}
+		}
+	} else if ( a+a ){
+		if(a*a){}
+	} 
+
+	if(a*a){}
+
+}

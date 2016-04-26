@@ -1,0 +1,4 @@
+#define C A ffff F A F ff C A
+#define A A FF A
+#define F A ffff
+C

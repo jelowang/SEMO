@@ -1,0 +1,104 @@
+
+//	以下数据在2.20 duo CPU ，2G内存机器上“LAC”（仅仅运行前段与中段）代码编译时间为0.093 sec。
+
+function(){
+
+	int a ;
+	int b ;
+	int c ;
+	int d ;
+	int e ;
+	int f ;
+	int g ; 
+	int h ;
+
+	if ( (a+a/b>>e+f*g) > ((a+a/b>>e+f*g)+a*a&&d-d) ){
+		a = e+f*g;
+		if(((a+a/b>>e+f*g)+a*a&&d-d)){
+			if (b>>e) {
+			} else if(a*a&&d) {
+			}
+		}
+	} else if ( e+f*g ){
+		if(a/b){
+
+////one more layer 1 here
+	if ( (a+a/b>>e+f*g) > ((a+a/b>>e+f*g)+a*a&&d-d) ){
+		a = e+f*g;
+		if(((a+a/b>>e+f*g)+a*a&&d-d)){
+			if (b>>e) {
+			} else if(a*a&&d) {
+			}
+		}
+	} else if ( e+f*g ){
+		if(a/b){
+
+
+////one more layer 2 here
+
+	if ( (a+a/b>>e+f*g) > ((a+a/b>>e+f*g)+a*a&&d-d) ){
+		a = e+f*g;
+		if(((a+a/b>>e+f*g)+a*a&&d-d)){
+			if (b>>e) {
+			} else if(a*a&&d) {
+			}
+		}
+	} else if ( e+f*g ){
+		if(a/b){
+
+
+////layer 3
+	if ( (a+a/b>>e+f*g) > ((a+a/b>>e+f*g)+a*a&&d-d) ){
+		a = e+f*g;
+		if(((a+a/b>>e+f*g)+a*a&&d-d)){
+			if (b>>e) {
+			} else if(a*a&&d) {
+			}
+		}
+	} else if ( e+f*g ){
+		if(a/b){
+
+
+////layer 4
+	if ( (a+a/b>>e+f*g) > ((a+a/b>>e+f*g)+a*a&&d-d) ){
+		a = e+f*g;
+		if(((a+a/b>>e+f*g)+a*a&&d-d)){
+			if (b>>e) {
+			} else if(a*a&&d) {
+			}
+		}
+	} else if ( e+f*g ){
+		if(a/b){}
+	} 
+////layer 4 end
+
+a = a*a+((a+a/b>>e+f*g)+a*a&&d-d)+a*a+((a+a/b>>e+f*g)+a*a&&d-d)+a*a+((a+a/b>>e+f*g)+a*a&&d-d)*a*a+((a+a/b>>e+f*g)+a*a&&d-d)+a*a+((a+a/b>>e+f*g)+a*a&&d-d)+a*a+((a+a/b>>e+f*g)+a*a&&d-d+a*a+((a+a/b>>e+f*g)+a*a&&d-d)+a*a+((a+a/b>>e+f*g)+a*a&&d-d)+a*a+((a+a/b>>e+f*g)+a*a&&d-d)>>a*a+((a+a/b>>e+f*g)+a*a&&d-d)+a*a+((a+a/b>>e+f*g)+a*a&&d-d)+a*a+((a+a/b>>e+f*g)+a*a&&d-d)>a*a+((a+a/b>>e+f*g)+a*a&&d-d)+a*a+((a+a/b>>e+f*g)+a*a&&d-d)+a*a+((a+a/b>>e+f*g)+a*a&&d-d)<a*a+((a+a/b>>e+f*g)+a*a&&d-d)+a*a+((a+a/b>>e+f*g)+a*a&&d-d)+a*a+((a+a/b>>e+f*g)+a*a&&d-d);
+
+}
+	} 
+////layer 3 end
+
+
+}
+	} 
+
+	a = a*a+((a+a/b>>e+f*g)+a*a&&d-d);
+////one more layer 2 end
+
+
+
+}
+	} 
+
+	a = a*a+((a+a/b>>e+f*g)+a*a&&d-d);
+////one more layer 1 end
+
+
+
+}
+	} 
+
+	
+	a = b+e ;
+
+}

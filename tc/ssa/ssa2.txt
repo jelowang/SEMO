@@ -1,0 +1,18 @@
+void gtkings () {
+
+	int a ;
+	if ( a + a ) {
+		if(a+a){
+			a = a +a ;
+			a = a +a ;
+		}
+		if(a+a){
+			a = a +a ;
+			a = a +a ;
+		}
+
+	} 
+	//	SSA_MEG(a0,a2,a4);
+	a = a + a ;
+
+}

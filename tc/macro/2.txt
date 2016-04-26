@@ -1,0 +1,5 @@
+#define getstr MAIN
+#define MAIN gtkings
+getstr
+
+//	macro_subsit result expecting is : gtkings

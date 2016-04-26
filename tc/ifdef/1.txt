@@ -1,0 +1,12 @@
+#define gtkings gtkings.com
+#define gtkings1 gtkings
+#define gtkings2 gtkings
+
+#ifdef gtkings
+	#ifdef gtkings1
+		gtkings1
+	#endif
+	#ifdef gtkings2
+	#endif
+	gtkings
+#endif

@@ -1,0 +1,20 @@
+void livescope () {
+
+	int a ;
+	int b ; 
+	int c ;
+	int d ;
+	int e ;
+	int f ;
+	int g ;
+
+	a = a + a ;
+	b = b + b ;
+	a = b + b ;
+	c = c + c ;
+	b = a + c ;
+	e = a + a ;
+	f = e + b ;
+	g = e + f ;
+
+}

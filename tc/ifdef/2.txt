@@ -1,0 +1,18 @@
+#define gtkings gtkings.com
+#define gtkings1 gtkings1.com
+#define C(x) A ffff x F A F ff C(x) A B(x)
+#define A A FF A
+#define F A ffff
+#define B(x) C(x) B(x) x
+#ifdef C
+	#ifdef gtkings1
+		#ifdef gtkings4
+			gtkings4
+			#ifdef gtkings3
+				gtkings3
+			#endif
+		#endif
+		gtkings1
+	#endif
+	C(gtkings)
+#endif

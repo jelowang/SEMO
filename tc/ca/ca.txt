@@ -1,0 +1,14 @@
+
+void ca1 ( int a , int b , int c , int d , int e , int f ) {
+}
+
+void ca2 () {
+	int a = 0 ;
+	int b = 0 ;
+	int c = 0 ;
+	int d = 0 ;
+	int e = 0 ;
+	int f = 0 ;
+	ca1 ( a , b , c , d , e , f ) ;	
+}
+

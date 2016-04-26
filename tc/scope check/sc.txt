@@ -1,0 +1,28 @@
+function(){
+
+	int b ;
+
+	if (b+b){
+		int a;
+		if (b+b){
+			if ( b+b ) {
+				a = b + b ;
+			}
+		}
+	}
+
+	a = b + b ;
+
+	if (b+b){
+		
+		if (b+b){
+			if ( b+b ) {
+				a = b + b ;
+			}
+		}
+	}
+
+	
+	a = b + b ;
+
+}

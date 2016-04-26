@@ -1,0 +1,14 @@
+void livescope () {
+
+	int a ;
+	int b ; 
+	int c ;
+	int d ;
+	int e ;
+	int f ;
+	int g ;
+
+	a = a + a + b + c / b /a + (a-c-e-f-g) *a /b >> c && b + (b + c / b /a + (a-c-e-f-g) *a /b >> c && b) /b >> c + c / b /a + (a-c-e-f-g) *a /b >> c && b + (b + c / b /a + (a-c-e-f-g) *a /b >> c && b) /b >> c + (a-c-e-f-g) *a /b + a + a + b + c / b /a + (a-c-e-f-g) *a /b >> c && b + (b + c / b /a + (a-c-e-f-g) *a /b >> c && b) /b >> c + c / b /a + (a-c-e-f-g) *a /b >> c && b + (b + c / b /a + (a-c-e-f-g) *a /b >> c && b) /b >> c + (a-c-e-f-g) *a /b ;
+	
+
+}

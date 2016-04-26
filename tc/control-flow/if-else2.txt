@@ -1,0 +1,24 @@
+function(){
+
+	int a ;
+	int b ;
+	int c ;
+	int d ;
+	int e ;
+	int f ;
+	int g ; 
+	int h ;
+
+	if ( (a+a/b>>e+f*g) > ((a+a/b>>e+f*g)+a*a&&d-d) ){
+		a = e+f*g;
+		if(((a+a/b>>e+f*g)+a*a&&d-d)){
+			if (b>>e) {
+			} else if(a*a&&d) {
+			}
+		}
+	} else if ( e+f*g ){
+		if(a/b){}
+	} 
+
+	a = a*a+((a+a/b>>e+f*g)+a*a&&d-d);
+}

@@ -1,0 +1,55 @@
+void gtkings(){
+	int a = 10;
+	int b = 100;
+	int c = 0 ;
+	int e = 0 ;
+	int f = 0 ;
+	int g = 0 ;
+	int h = 0 ;
+	int i = 0 ;
+	int j = 0 ;
+	int k = 0 ;
+	int l = 0 ;
+	int m = 0 ;
+	int n = 0 ;
+	
+	int o = 0 ;
+	int p = 0 ;
+	int q = 0 ;
+	int r = 0 ;
+	int s = 0 ;
+	int t = 0 ;
+	int u = 0 ;
+	int v = 0 ;
+	int w = 0 ;
+	int x = 0 ;
+	int y = 0 ;
+	int z = 0 ;
+
+	a = a + a ;
+	b = b + b ;
+	c = a + a ;
+	b = b + b ;
+	e = a + c ;	
+	f = c + c ;
+	g = b + b ;
+	h = a + a ;
+	i = e + e ;
+	j = f + g ;
+	k = c + c ;
+	l = a + e ;
+	m = j + f ;
+	n = n + m ;
+	o = f + i ;
+	p = j + m ;
+	q = g + b ;
+	r = c + a ;
+	s = n + p ;
+	t = l + o ;
+	u = c + e ;
+	v = k + q ;
+	w = l + r ;
+	x = s + v ;
+	y = t + w ;
+	z = x + y ;
+}

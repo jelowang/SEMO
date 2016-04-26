@@ -1,0 +1,12 @@
+#ifdef gtkings
+	123123123123123123
+	#ifdef gtkings
+		china
+		#ifdef china
+		shandong
+		#endif
+		chinachinachina.com
+	#endif
+	asdfasdfasdfasdf
+	asdfasdfasdfasdf
+#endif

@@ -1,0 +1,13 @@
+void gtkings () {
+
+	int a ;
+	int b ;
+	if ( a + a ) {
+		a = a+a;
+		a = a+a;
+	} 
+	
+	a = b + b ;
+	a = a+a;
+
+}

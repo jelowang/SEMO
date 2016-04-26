@@ -1,0 +1,12 @@
+void call( int a ) {
+}
+void livescope ( int x ) {
+
+	int a ;
+
+	call(x) ;
+
+	a = a + x ;
+	
+
+}

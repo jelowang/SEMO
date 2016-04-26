@@ -1,0 +1,5 @@
+#define C(x) A ffff x F A F ff C(x) A B(x)
+#define A A FF A
+#define F A ffff
+#define B(x) C(x) B(x) x
+C(gtkings)
